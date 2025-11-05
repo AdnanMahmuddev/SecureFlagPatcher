@@ -2,7 +2,7 @@
 
 **Author:** Adnan  
 **Module ID:** flagsecurepatcher  
-**Version:** m1 (1.0.2)  
+**Version:** m1 (1.0.1)  
 
 ---
 
@@ -34,11 +34,8 @@
 
 - This module **modifies the behavior of apps**, so use responsibly.
 - Some banking or DRM apps may detect this and block functionality.
-- Credits to the original developer: marley (https://github.com/j-hc/FlagSecurePatcher)
-
----
-
+- ****Your data is at RISK!!****
 ## License
 
-This module is based on the open-source **FlagSecurePatcher**. All modifications are made for personal/custom use and research purposes.
+All modifications are only for personal/custom use and research purposes.
 
