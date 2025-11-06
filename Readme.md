@@ -2,7 +2,7 @@
 
 **Author:** Adnan  
 **Module ID:** flagsecurepatcher  
-**Version:** m1 (1.0.1)  
+**Version:** M1 (1.0.1)  
 
 ---
 
